@@ -513,7 +513,7 @@ nur **sicher**, sondern auch **wirksam und nachhaltig** genutzt werden
 können -- sei es für **Versorgung, Forschung, Planung** oder
 **Innovation**.
 
-# Bausteine
+### Bausteine
 
 Die **Bundeskanzlei** orientiert sich am **Data Spaces Support Center
 (DSSC)-Modell** der EU und definiert **17 modulare Bausteine**, die
@@ -729,7 +729,7 @@ Gesundheitsdaten.
 
 ![Gesundheitsdatenraum SwissHDS](images/datenraum_326207452.png)
 
-# Frage: Was ist ein Sream?
+## Frage: Was ist ein Sream?
 
 Ein **Stream** ist ein organisatorisches Strukturelement innerhalb des
 Projekts **Swiss Health Data Space (SwissHDS;** vgl.
@@ -791,7 +791,7 @@ gelöst werden soll. Usecases werden aus Sicht der **Nutzer:innen**
 formuliert und dienen als Ausgangspunkt für die Definition von
 **Fachdiensten, Datenprodukten** und **technischen Anforderungen**.
 
-#### Merkmale von Usecases
+### Merkmale von Usecases
 
 Ein Usecase beantwortet die Frage:
 
@@ -810,7 +810,7 @@ Ein Usecase beantwortet die Frage:
 
     - Die betroffenen **Datenobjekte**
 
-#### Beziehung zu anderen Begriffen
+### Beziehung zu anderen Begriffen
 
 - Mehrere Usecases einer **Fachdomäne** können die Notwendigkeit für
   einen **Fachdienst** ableiten, der die **Wiederverwendung
@@ -826,7 +826,7 @@ Ein Usecase beantwortet die Frage:
 - Die Umsetzung eines Usecases kann **mehrere Datenprodukte** erfordern,
   die **interoperabel über SwissHDS** bereitgestellt werden.
 
-#### Beispiele für Usecases in der Domäne **eMedikation**
+### Beispiele für Usecases in der Domäne **eMedikation**
 
 - **Rezept erstellen:** Eine Ärztin verschreibt ein Medikament
   elektronisch.
@@ -840,7 +840,7 @@ Ein Usecase beantwortet die Frage:
 - **Medikationsdaten auswerten:** Ein Versorgungsmonitoring analysiert
   anonymisierte Daten zur Medikation bei chronisch Kranken.
 
-#### Hinweise zur Formulierung
+### Hinweise zur Formulierung
 
 Usecases werden im SwissHDS typischerweise **kurz und
 aktionsorientiert** beschrieben, in der Form **Subjekt + Verb +
