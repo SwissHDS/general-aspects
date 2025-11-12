@@ -4,7 +4,7 @@
 
 ## Frage: Was ist ein Basisdienst?
 
-**Basisservices** sind zentral bereitgestellte technische Komponenten,
+**Basisdienste** sind zentral bereitgestellte technische Komponenten,
 die **grundlegende Funktionen für den Betrieb von SwissHDS** und den
 fachlichen **Datenaustausch** bereitstellen. Sie basieren auf **keinem
 eigenständigen Geschäftsmodell**, sondern werden zentral vom BAG
@@ -46,7 +46,7 @@ Vertrauen** im vernetzten Gesundheitsdatenraum.
 ![Datenraum mit Basisdiensten](images/basisdienst_326207449.png)
 
 
-## Frage: Was ist Data Mesh?
+## Frage: Was ist ein Data Mesh?
 
 Das Konzept Data Mesh wurde 2019 von Zhamak Dehghani eingeführt. Sie
 definiert es als:
